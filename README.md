@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Aymen 👋
 
-<!--
-**aymenjam/aymenjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java backend engineer — 15 years of experience building distributed, high-performance systems.
 
-Here are some ideas to get you started:
+- ☕ **Backend:** Java 17+, Spring Boot 3, Spring Batch, WebFlux, Kafka, microservices
+- 🖥️ **Frontend:** Angular
+- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, GitLab CI
+- 🏅 **Certifications:** Spring Certified Professional · AWS Solutions Architect – Associate · Oracle Java SE 8 OCP
+- 🌍 **Open source:** contributor to [QuickFIX/J](https://github.com/quickfix-j/quickfixj) and [SBE](https://github.com/real-logic/simple-binary-encoding)
+- 💼 Open to remote freelance / contract missions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aymen--jamaaoui-blue?logo=linkedin)](https://www.linkedin.com/in/aymen-jamaaoui/)
+
+<a href="https://algora.io/aymenjam">
+  <img src="https://algora.io/og/user/aymenjam" alt="Algora profile" width="600" />
+</a>
