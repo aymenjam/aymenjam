@@ -11,6 +11,4 @@ Senior Java backend engineer — 15 years of experience building distributed, hi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aymen--jamaaoui-blue?logo=linkedin)](https://www.linkedin.com/in/aymen-jamaaoui/)
 
-<a href="https://algora.io/aymenjam">
-  <img src="https://algora.io/og/user/aymenjam" alt="Algora profile" width="600" />
-</a>
+
